@@ -13,4 +13,8 @@ This project uses financial data from WRDS to analyze the revenue and profit tre
 - Apple has consistent and strong revenue performance
 - Tesla has rapid revenue growth
 
+### Data Source
+- All financial data is obtained from Wharton Research Data Services (WRDS)
+- Data access date: 2026/4/13
+- 
 This is for ACC102 coursework.
